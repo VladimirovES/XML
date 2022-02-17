@@ -1,0 +1,12 @@
+
+<?xml version="1,0" encoding = "UTF-8"?>
+<info>
+	<name>Евгений</name>
+	<surname>Владимиров</surname>
+	<patronomic>Сергеевич</patronomic>
+	<age>26</age>
+	<animals>1</animals>
+	<future_salary>800</future_salary>
+</info>
+
+
