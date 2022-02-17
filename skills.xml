@@ -1,0 +1,17 @@
+<?xml version ="1.0" encoding = "utf-8"?>
+<skills>
+		<soft_skills>discipline</soft_skills>
+		<soft_skills>communication</soft_skills>
+		<soft_skills>support</soft_skills>
+
+	<hard_skills>
+
+		<Tools>Terminal</Tools>
+		<Tools>github</Tools>
+		<Tools>postman</Tools>
+		<Tools>SQL</Tools>
+		<Theory>a lot of</Theory>
+
+	</hard_skills>
+
+</skills>
